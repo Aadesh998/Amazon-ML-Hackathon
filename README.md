@@ -8,3 +8,5 @@ index: The unique identifier (ID) of the data sample. Note the index should matc
 train.csv: Training file with labels (entity_value). 
 test.csv: Test file without output labels (entity_value). 
 Generate predictions using your model/solution on this file's data and format the output file to match sample_test_out.csv (Refer the above section "Output Format")
+
+Dataset link: - https://www.kaggle.com/datasets/aadesh321kumar/ml-hackathon
